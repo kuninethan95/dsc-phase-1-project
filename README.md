@@ -38,9 +38,10 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## Visualization A: Create boxplot to illustrate how runtime impacts revenue
 
-  
-![Getting Started](/Users/ethankunin/Desktop/movie_season.png)
 
+<img src="/Users/ethankunin/Desktop/movie_month.png" width = 80%>
+                                                        
+                                                       
 
     
 
@@ -72,7 +73,7 @@ with plt.style.context('bmh'):
 
     
 ![png](output_42_0.png)
-    
+<img src="./Users/ethankunin/Desktop/movie_month.png" width = 80%>   
 
 
 ### Conclusion 
