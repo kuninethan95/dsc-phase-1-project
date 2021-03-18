@@ -1,5 +1,4 @@
 #  Movie Analysis
-Please fill out:
 
 - Student name: Ethan Kunin
 - Student pace: Full Time
@@ -11,7 +10,7 @@ Please fill out:
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-<center><img src="./Images/output_39_0.png" width=75%></center>
+
 
 
 
@@ -44,7 +43,7 @@ We want to address if runtime has a positive correlation with worldwide gross re
 ### *Visualization A: Boxplot to illustrate how runtime impacts revenue*
 
 
-<img src="/Users/ethankunin/Desktop/movie_month.png" width = 80%>
+<center><img src="./Images/output_39_0.png" width=75%></center>
                                                         
                                                        
 
@@ -60,7 +59,7 @@ We want to address if runtime has a positive correlation with worldwide gross re
 ### *Visualization B: Linear regression plot to illustrate how runtime impacts revenue*
 
 
-image will go here
+<center><img src="./Images/output_42_0.png" width=75%></center>
 
 
 ### Conclusion 
@@ -76,20 +75,10 @@ image will go here
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### *Visualization A: Top 20 Directors, 2 Graphs to display WW and Mean/Sum*
 
 
-image will go here
+<center><img src="./Images/output_64_1.png" width=75%></center>
     
 
 
@@ -104,7 +93,7 @@ image will go here
 ### *Visualization B: Analyze profitablity and relationship between budget and worldwide revenue for Top Directors*
 
 
-image will go here
+<center><img src="./Images/output_76_0.png" width=75%></center>
     
 
 ### *Conclusion* 
@@ -118,7 +107,7 @@ image will go here
 - Analyze which month generates the highest revenue per film on average
 
    
-image
+
     
 
 ### *Visualization A: Stacked (domestic + worldwide) bar plot showing how much revenue films generate per month on average*
@@ -126,9 +115,9 @@ image
 
 
 
-image goes here
+<center><img src="./Images/output_87_0.png" width=75%></center>
     
-![png](output_87_0.png)
+
     
 
 
@@ -141,9 +130,7 @@ image goes here
 ### *Visualization B: Boxplot of worldwide gross based on season*
 
 
-image goes here
-    
-![png](output_92_0.png)
+<center><img src="./Images/output_92_0.png" width=75%></center>
     
 
 
@@ -162,11 +149,7 @@ image goes here
 ### *Visualization A: Lineplot of worldwide/domestic gross/cost based on year*
 
 
-image goes here
-
-
-    
-![png](output_100_0.png)
+<center><img src="./Images/output_100_0.png" width=75%></center>
 
 
  ### *Conclusion*
@@ -187,7 +170,7 @@ image goes here
 ### *Visualization A: Time trend for Franchise vs. Non-Franchise movies*
 
 
-image goes here
+<center><img src="./Images/output_128_0.png" width=75%></center>
 
 
 ### *Conclusion:*
@@ -197,7 +180,7 @@ image goes here
 
 ### *Visualization B: Linear Regression Scatter Plot displaying relationship between Worldwide Gross and Production Cost for Franchise vs. Non-Franchise Films*
 
-image goes here
+<center><img src="./Images/output_131_0.png" width=75%></center>
 
 ### *Conclusion:*
 - Franchise films have a stronger positive relationship between revenue and cost than non-franchise films
