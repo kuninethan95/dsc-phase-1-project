@@ -69,7 +69,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 ### Conclusion 
-- There is a positive relationshiup between film duration and worldwide gross
+- There is a positive relationship between film duration and worldwide gross
 - Long movies have more outlier values. 
 
 - 43% of films are considered 'medium' duration, 30% 'short' duration, and 27% 'long' duration
@@ -77,7 +77,7 @@ Microsoft sees all the big companies creating original video content and they wa
 # Analyze which directors generate the highest revenue
 - Are the top directors consistently profitable?
 - How much revenue do top directors' films earn?
-- Are all films that top directors produce domestically and globabally profitable?
+- Are all films that top directors produce domestically and globally profitable?
 
 - Choosing to hone in on revenue and cost because these measures have a greater influence on balance sheet than ROI. 
 
@@ -101,7 +101,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 
-### *Visualization B: Analyze profitablity and relationship between budget and worldwide revenue for Top Directors*
+### *Visualization B: Analyze profitability and relationship between budget and worldwide revenue for Top Directors*
 
 
 <center><img src="./Images/output_76_0.png" width=75%></center>
@@ -163,7 +163,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - **Summer films outperform any other season.** May through July produce the highest worldwide grossing films on average.
 - **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
 
-### Apendix A: Analyze how movies have performed the past 10 years through trends
+### Appendix A: Analyze how movies have performed the past 10 years through trends
 - Analyze how production costs have changed over the last 10 years.
 - Analyze if worldwide gross and domestic gross have similar trends.
 
@@ -186,10 +186,10 @@ Microsoft sees all the big companies creating original video content and they wa
  - Between 2018 and 2019 production costs exceeded domestic revenue
 
 
-# Apendix B: Analyze how franchises perform compared to non-franchises
-- Check if franchise films generate higher worldwide revenue on aveerage than non-franchise films.
+# Appendix B: Analyze how franchises perform compared to non-franchises
+- Check if franchise films generate higher worldwide revenue on average than non-franchise films.
 - Explore how this trend has varied over the past 10 years
-- See which type of film has a greater positive correlation between production buget and revenue
+- See which type of film has a greater positive correlation between production budget and revenue
 - Used this [site](https://www.filmsite.org/) to gather data. 
 
 
