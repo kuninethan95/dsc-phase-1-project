@@ -60,7 +60,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - Long movies have the largest distributional spread
 - Short and medium length movies have similar distributions
 
-- Overall, the analysis supports that 'long' movies generate higher revenues than 'short' and 'medium' lenght movies
+- **Recommendation:** Film should be at least 120 minuntes in runtime
 
 ### *Visualization B: Linear regression plot to illustrate how runtime impacts revenue*
 
@@ -73,6 +73,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - Long movies have more outlier values. 
 
 - 43% of films are considered 'medium' duration, 30% 'short' duration, and 27% 'long' duration
+- **Recommendation:** Further support for long movies
 
 # Analyze which directors generate the highest revenue
 - Are the top directors consistently profitable?
@@ -96,7 +97,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - Valuable list to parse through when considering who will direct the first film
 - Outliers are a valuable data point because they can make a significant impact on balance sheet
 
-- Joe Russo (Avengers) has generated over $3.9B in worldwide gross. 
+- **Recommendation:** Joe Russo (Avengers) has generated over $3.9B in worldwide gross. Chose a director of similar total and average revenue
 
 
 
@@ -113,6 +114,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - All movies are profitable when comparing production budget to worldwide gross
 
 - Worldwide gross is a more impactful measurement than domestic. 
+- **Recommendation:** Further support for selecting top grossing directors
 
 # Analyze the best time to release a movie
 - Evaluate which season  generates the highest amount of revenue on average. 
@@ -141,6 +143,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - Total gross is lowest in January
 
 - August-October is the lowest span of three consecutive months
+- **Recommendation:** Release movies in Summer months
 
 
 
@@ -156,12 +159,19 @@ Microsoft sees all the big companies creating original video content and they wa
 - Spring and Summer films have larger distributions.
 - Corresponds with our month observations.
 - While November is typically a high grossing month, December and January reduce the Winter average.
+- **Recommendation:** Further support for releasing movies in Summer months
 
 ## Outcomes and Recommendations
 - **Longer films outperform shorter films on average.** Consider releasing a film with a runtime that exceeds 120 minutes. There also tends to be more high outliers in this duration category.
 -  **Top directors from 2010-2019 have produced profitable films from a worldwide gross perspective 100% of the time.** Consider hiring one of the top 20 directors suggested above. 
 - **Summer films outperform any other season.** May through July produce the highest worldwide grossing films on average.
 - **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
+
+## For more Informatoin
+---
+####  See the full analysis in the Jupyter notebook or review the presentation in the GitHub repository
+-----
+
 
 ### Appendix A: Analyze how movies have performed the past 10 years through trends
 - Analyze how production costs have changed over the last 10 years.
@@ -203,6 +213,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - Franchise films have outperformed non-franchise films every year
 - They follow a similar trend, both declined towards 2018
 - Franchise films have greater standard deviation
+- **Recommendation:** Begin building a lasting franchise, possibly using licensed Microsoft IP (such as Halo)
 
 ### *Visualization B: Linear Regression Scatter Plot displaying relationship between Worldwide Gross and Production Cost for Franchise vs. Non-Franchise Films*
 
@@ -211,3 +222,4 @@ Microsoft sees all the big companies creating original video content and they wa
 ### *Conclusion:*
 - Franchise films have a stronger positive relationship between revenue and cost than non-franchise films.
 - The linear regression line is higher at every production cost value. 
+
