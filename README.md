@@ -18,26 +18,31 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## Questions to address
 
-- Which directors generate the highest revenue per film?
-- What month generates the highest revenue for films?
-- What film length generates the highest revenue?
-- Appendix A: Do franchise films earn more than non-franchise films?
+- Which director should Microsoft select to direct their first feature film?
+- Which month generates the highest revenue for films?
+- Does film duration impact worldwide revenue? If so, is there a positive or negative relationship?
+- Appendix A: Do franchise films earn more revenue than non-franchise films?
+
 - Appendix B: How have movie revenue trends changed over the past 10 years
 
 --------------------------------------------------------------
 
 ## Data
 - Originated from IMBD and The Numbers
-- Focused on commercial budget releases, classified as those with budgets exceeding $20 million 
-- Analyzing movies from 2010 onwards 
-- Limiting to movies exceeding 80 minutes
-- https://www.marketwatch.com/storynetflix-reportedly-set-to-produce-90-movies-a-year-with-budgets-up-to-200-million-2018-12-16
-- https://screenwriting.io/what-is-a-feature-film/
+- Focused on commercial budget releases, classified as those with budgets exceeding [$20 million](https://www.marketwatch.com/storynetflix-reportedly-set-to-produce-90-movies-a-year-with-budgets-up-to-200-million-2018-12-16)
+- Analyzing movies from 2010 onwards. Streaming gained more popularity and marketing strategies changed. 
+
+- Analyzing movies exceeding [80 minutes](https://screenwriting.io/what-is-a-feature-film/). This is the technical minimum for theatrical releases
+
 
 ----------
 
 ## Analyzing how runtime impacts revenue
-We want to address if runtime has a positive correlation with worldwide gross revenue. We will also evaluate how seasonality generally impacts revenue. This may be dependent on a number of factors such as awards seasons, consumer spending habits, quality of releases, and much more
+- We want to address if runtime has a positive correlation with worldwide gross revenue. 
+- If movies are categorized by short, medium, and long, is there a statistical difference between revenue?
+
+- Which of these duration categories has the greatest spread? 
+
 
 
 ### *Visualization A: Boxplot to illustrate how runtime impacts revenue*
@@ -54,7 +59,8 @@ We want to address if runtime has a positive correlation with worldwide gross re
 - Long movies have the highest median
 - Long movies have the largest distributional spread
 - Short and medium length movies have similar distributions
-- Overall, the analysis suggests that 'long' movies generate higher revenues than 'short' and 'medium' lenght movies
+
+- Overall, the analysis supports that 'long' movies generate higher revenues than 'short' and 'medium' lenght movies
 
 ### *Visualization B: Linear regression plot to illustrate how runtime impacts revenue*
 
@@ -63,14 +69,17 @@ We want to address if runtime has a positive correlation with worldwide gross re
 
 
 ### Conclusion 
-- There is a positive trend between film duration and worldwide gross
-- Long movies have more outlier values
+- There is a positive relationshiup between film duration and worldwide gross
+- Long movies have more outlier values. 
+
+- 43% of films are considered 'medium' duration, 30% 'short' duration, and 27% 'long' duration
 
 # Analyze which directors generate the highest revenue
-- Are the top directors generally profitable?
+- Are the top directors consistantly profitable?
 - How much revenue do top directors' films earn?
-- Are all films that top directors produce domestically and globabally profitable
-- Choosing to hone in on revenue and cost because those show the absolute impact to Microsoft balance sheet
+- Are all films that top directors produce domestically and globabally profitable?
+
+- Choosing to hone in on revenue and cost because these measures have a greater influence on balance sheet than ROI. 
 
 
 
@@ -87,6 +96,8 @@ We want to address if runtime has a positive correlation with worldwide gross re
 - Valuable list to parse through when considering who will direct the first film
 - Outliers are a valuable data point because they can make a significant impact on balance sheet
 
+- Joe Russo (Avengers) has generated over $3.9B in worldwide gross. 
+
 
 
 
@@ -101,10 +112,13 @@ We want to address if runtime has a positive correlation with worldwide gross re
 - Not all movies are domestically profitable
 - All movies are profitable when comparing production budget to worldwide gross
 
-# Analyze when the best time to release a movie is
-- Create visualization based on month showing average earnings
-- Analyze which season is generates the highest amount of revenue
+- Worldwide gross is a more impactful measurement than domestic. 
+
+# Analyze the best time to release a movie
+- Evaluate which season  generates the highest amount of revenue on average. 
 - Analyze which month generates the highest revenue per film on average
+
+- This may be dependent on a number of factors such as awards seasons, consumer spending habits, quality of releases, and more. 
 
    
 
@@ -123,7 +137,10 @@ We want to address if runtime has a positive correlation with worldwide gross re
 
 ### *Conclusion*
 - June movie generate the highest revenue on average followed by May and July
-- Worldwide gross is greater than domestic gross in every month
+- Worldwide gross exceeds domestic gross in every month
+- Total gross is lowest in January
+
+- August-October is the lowest span of three consecutive months
 
 
 
@@ -135,9 +152,10 @@ We want to address if runtime has a positive correlation with worldwide gross re
 
 
 ### Conclusion 
-- Spring and Summer films have the highest medians
-- Spring and Summer films have larger distributions
-- Corresponds with our month observations
+- Spring and Summer films have the highest medians.
+- Spring and Summer films have larger distributions.
+- Corresponds with our month observations.
+- While November is typically a high grossing month, December and January reduce the Winter average.
 
 ## Outcomes and Recommendations
 - **Longer films outperform shorter films on average.** Consider releaseing a film with a runtime that exceeds 120 minutes. There also tends to be more high outliers in this duration category.
@@ -146,9 +164,10 @@ We want to address if runtime has a positive correlation with worldwide gross re
 - **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
 
 ### Apendix A: Analyze how movies have performed the past 10 years through trends
-- Analyze how production costs have changed over the last 10 years
-- Check if domestic versus worldwise gross move in the same directions
-- Check if there are any years when costs exceeded either domestic or worldwide revenue
+- Analyze how production costs have changed over the last 10 years.
+- Analyze if worldwide gross and domestic gross have similar trends.
+
+- Check if there are any years when costs exceeded either domestic or worldwide revenue.
 
 
 
@@ -163,14 +182,15 @@ We want to address if runtime has a positive correlation with worldwide gross re
  - In 2018 domestic revenue began to decline
  - Production costs have steadily risen but remain relatively flat
  - Worldwide revenue has exceeded production costs every year
+
  - Between 2018 and 2019 production costs exceeded domestic revenue
 
 
 # Apendix B: Analyze how franchises perform compared to non-franchises
-- Check if franchise films generate higher worldwide revenue on aveerage than non-franchise films
+- Check if franchise films generate higher worldwide revenue on aveerage than non-franchise films.
 - Explore how this trend has varied over the past 10 years
 - See which type of film has a greater positive correlation between production buget and revenue
-- Use this site to gather data: https://www.filmsite.org/
+- Used this [site](https://www.filmsite.org/) to gather data. 
 
 
 ### *Visualization A: Time trend for Franchise vs. Non-Franchise movies*
@@ -189,4 +209,5 @@ We want to address if runtime has a positive correlation with worldwide gross re
 <center><img src="./Images/output_131_0.png" width=75%></center>
 
 ### *Conclusion:*
-- Franchise films have a stronger positive relationship between revenue and cost than non-franchise films
+- Franchise films have a stronger positive relationship between revenue and cost than non-franchise films.
+- The linear regression line is higher at every production cost value. 
