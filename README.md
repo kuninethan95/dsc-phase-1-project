@@ -139,6 +139,12 @@ We want to address if runtime has a positive correlation with worldwide gross re
 - Spring and Summer films have larger distributions
 - Corresponds with our month observations
 
+## Outcomes and Recommendations
+- **Longer films outperform shorter films on average.** Consider releaseing a film with a runtime that exceeds 120 minutes. There also tends to be more high outliers in this duration category.
+-  **Top directors from 2010-2019 have produced profitable films from a worldwide gross perpsective 100% of the time.** Consider hiring one of the top 20 directors suggested above. 
+- **Summer films outperform any other season.** May through July produce the highest worldwide grossing films on average.
+- **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
+
 ### Apendix A: Analyze how movies have performed the past 10 years through trends
 - Analyze how production costs have changed over the last 10 years
 - Check if domestic versus worldwise gross move in the same directions
