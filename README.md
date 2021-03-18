@@ -131,7 +131,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 
-<center><img src="./Images/movie_month1.png" width=75%></center>
+<center><img src="./Images/movimoe_month1.png" width=75%></center>
     
 
     
@@ -210,7 +210,7 @@ See the full analysis in the Jupyter notebook or review the presentation in the 
 ### *Visualization A: Time trend for Franchise vs. Non-Franchise movies*
 
 
-<center><img src="./Images/output_128_0.png" width=75%></center>
+<center><img src="./Images/franvnonfran.png" width=75%></center>
 
 
 ### *Conclusion:*
