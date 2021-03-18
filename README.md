@@ -1,4 +1,5 @@
 #  Movie Analysis
+Please fill out:
 
 - Student name: Ethan Kunin
 - Student pace: Full Time
@@ -10,7 +11,10 @@
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-<img scr="output_100_0.png" width=50%>
+
+
+![alt text here]('https://github.com/kuninethan95/dsc-phase-1-project/blob/master/Images/output_100_0.png')
+
 
 
 --------------------------
@@ -42,9 +46,7 @@ We want to address if runtime has a positive correlation with worldwide gross re
 ### *Visualization A: Boxplot to illustrate how runtime impacts revenue*
 
 
-<img scr="./images/output_100_0.png" width=50%>
-
-![alt text here]('https://github.com/kuninethan95/dsc-phase-1-project/blob/master/Images/output_100_0.png')
+<img src="/Users/ethankunin/Desktop/movie_month.png" width = 80%>
                                                         
                                                        
 
@@ -63,7 +65,7 @@ We want to address if runtime has a positive correlation with worldwide gross re
 image will go here
 
 
-### *Conclusion* 
+### Conclusion 
 - There is a positive trend between film duration and worldwide gross
 - Long movies have more outlier values
 
@@ -147,7 +149,7 @@ image goes here
     
 
 
-### *Conclusion*
+### Conclusion 
 - Spring and Summer films have the highest medians
 - Spring and Summer films have larger distributions
 - Corresponds with our month observations
@@ -201,15 +203,3 @@ image goes here
 
 ### *Conclusion:*
 - Franchise films have a stronger positive relationship between revenue and cost than non-franchise films
-
-## Conclusions & Recommendations
---------
-This analysis leads to three actionable insights
-- **Select one of the top 20 directors by total worlwide revenue.** Over the past 10 years they have not made a single film that has been globally unprofitable.
-- **Produce a movie with a runtime that is at least 120 minutes long.** These types of movies have a greater median than short and medium length movies.
-- **Release the movie in Summer months.** May through July on average have the highest worldwide grossing films.
-
-## Long Term Considerations
---------
-- Franchise movies over the past 10 years have generated more revenue on average than non-franchise movies. 
-
