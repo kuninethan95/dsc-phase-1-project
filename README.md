@@ -131,7 +131,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 
-<center><img src="./Images/output_87_0.png" width=75%></center>
+<center><img src="./Images/movie_month1.png" width=75%></center>
     
 
     
@@ -167,9 +167,13 @@ Microsoft sees all the big companies creating original video content and they wa
 - **Summer films outperform any other season.** May through July produce the highest worldwide grossing films on average.
 - **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
 
-## For more Informatoin
+## For more Informatoin ## 
 ---
-####  See the full analysis in the Jupyter notebook or review the presentation in the GitHub repository
+ 
+
+
+See the full analysis in the Jupyter notebook or review the presentation in the GitHub repository
+
 -----
 
 
@@ -223,3 +227,20 @@ Microsoft sees all the big companies creating original video content and they wa
 - Franchise films have a stronger positive relationship between revenue and cost than non-franchise films.
 - The linear regression line is higher at every production cost value. 
 
+### Repository Structure
+-----
+├── ZippedData
+
+├── images
+
+├── README.md
+
+├── Kunin_E_Project Presentation.pdf
+
+└── Phase 1 Project Notebook.ipynb
+
+├── README_pdf.pdf
+
+├── Kunin_E_Project Presentation.pdf
+
+└── Phase 1 Project Notebook.ipynb
