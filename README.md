@@ -188,7 +188,7 @@ See the full analysis in the Jupyter notebook or review the presentation in the 
 ### *Visualization A: Lineplot of worldwide/domestic gross/cost based on year*
 
 
-<center><img src="./Images/output_100_0.png" width=75%></center>
+<center><img src="./Images/overtyears.png" width=75%></center>
 
 
  ### *Conclusion*
