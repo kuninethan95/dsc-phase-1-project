@@ -75,7 +75,7 @@ Microsoft sees all the big companies creating original video content and they wa
 - 43% of films are considered 'medium' duration, 30% 'short' duration, and 27% 'long' duration
 
 # Analyze which directors generate the highest revenue
-- Are the top directors consistantly profitable?
+- Are the top directors consistently profitable?
 - How much revenue do top directors' films earn?
 - Are all films that top directors produce domestically and globabally profitable?
 
@@ -158,8 +158,8 @@ Microsoft sees all the big companies creating original video content and they wa
 - While November is typically a high grossing month, December and January reduce the Winter average.
 
 ## Outcomes and Recommendations
-- **Longer films outperform shorter films on average.** Consider releaseing a film with a runtime that exceeds 120 minutes. There also tends to be more high outliers in this duration category.
--  **Top directors from 2010-2019 have produced profitable films from a worldwide gross perpsective 100% of the time.** Consider hiring one of the top 20 directors suggested above. 
+- **Longer films outperform shorter films on average.** Consider releasing a film with a runtime that exceeds 120 minutes. There also tends to be more high outliers in this duration category.
+-  **Top directors from 2010-2019 have produced profitable films from a worldwide gross perspective 100% of the time.** Consider hiring one of the top 20 directors suggested above. 
 - **Summer films outperform any other season.** May through July produce the highest worldwide grossing films on average.
 - **Long term consideration: produce a franchise.** Franchises earn more revenue than non-franchises. This may be partially due to organic marketing and loyal fanbases.  
 
