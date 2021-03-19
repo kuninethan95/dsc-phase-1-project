@@ -131,7 +131,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 
-<center><img src="./Images/movimoe_month1.png" width=75%></center>
+<center><img src="./Images/movie_month1.png" width=75%></center>
     
 
     
