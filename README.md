@@ -193,11 +193,9 @@ See the full analysis in the Jupyter notebook or review the presentation in the 
 
  ### *Conclusion*
  - In 2017 worldwide revenue began to decline
- - In 2018 domestic revenue began to decline
  - Production costs have steadily risen but remain relatively flat
  - Worldwide revenue has exceeded production costs every year
 
- - Between 2018 and 2019 production costs exceeded domestic revenue
 
 
 # Appendix B: Analyze how franchises perform compared to non-franchises
