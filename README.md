@@ -227,20 +227,19 @@ See the full analysis in the Jupyter notebook or review the presentation in the 
 - Franchise films have a stronger positive relationship between revenue and cost than non-franchise films.
 - The linear regression line is higher at every production cost value. 
 
-### Repository Structure
------
-├── ZippedData
+### *Repository Structure:*
+Extra. Scratch Notebook
 
-├── images
+Images. 
 
-├── README.md
+zippedData.
 
-├── Kunin_E_Project Presentation.pdf
+EKuninrepo.pdf
 
-└── Phase 1 Project Notebook.ipynb
+Ethan Kunin Movie Presentation.pdf
 
-├── README_pdf.pdf
+Movie_project_nb.pdf
 
-├── Kunin_E_Project Presentation.pdf
+Phase 1 Project Notebook.ipynb
 
-└── Phase 1 Project Notebook.ipynb
+README.md
